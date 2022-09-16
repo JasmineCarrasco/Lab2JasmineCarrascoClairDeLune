@@ -1,0 +1,5 @@
+C:\Users\jasmine.carrasco\source\repos\Lab2JasmineCarrascoClairDeLune\obj\Debug\net6.0\Lab2JasmineCarrascoClairDeLune.csproj.AssemblyReference.cache
+C:\Users\jasmine.carrasco\source\repos\Lab2JasmineCarrascoClairDeLune\obj\Debug\net6.0\Lab2JasmineCarrascoClairDeLune.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasmine.carrasco\source\repos\Lab2JasmineCarrascoClairDeLune\obj\Debug\net6.0\Lab2JasmineCarrascoClairDeLune.AssemblyInfoInputs.cache
+C:\Users\jasmine.carrasco\source\repos\Lab2JasmineCarrascoClairDeLune\obj\Debug\net6.0\Lab2JasmineCarrascoClairDeLune.AssemblyInfo.cs
+C:\Users\jasmine.carrasco\source\repos\Lab2JasmineCarrascoClairDeLune\obj\Debug\net6.0\Lab2JasmineCarrascoClairDeLune.csproj.CoreCompileInputs.cache

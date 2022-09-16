@@ -1,0 +1,15 @@
+C:\Users\jasmine.carrasco\source\repos\Lab2JasmineCarrascoClairDeLune\bin\Debug\net6.0\Program.cs-Lab2JasmineCarrascoClairDeLune.exe
+C:\Users\jasmine.carrasco\source\repos\Lab2JasmineCarrascoClairDeLune\bin\Debug\net6.0\Program.cs-Lab2JasmineCarrascoClairDeLune.deps.json
+C:\Users\jasmine.carrasco\source\repos\Lab2JasmineCarrascoClairDeLune\bin\Debug\net6.0\Program.cs-Lab2JasmineCarrascoClairDeLune.runtimeconfig.json
+C:\Users\jasmine.carrasco\source\repos\Lab2JasmineCarrascoClairDeLune\bin\Debug\net6.0\Program.cs-Lab2JasmineCarrascoClairDeLune.dll
+C:\Users\jasmine.carrasco\source\repos\Lab2JasmineCarrascoClairDeLune\bin\Debug\net6.0\Program.cs-Lab2JasmineCarrascoClairDeLune.pdb
+C:\Users\jasmine.carrasco\source\repos\Lab2JasmineCarrascoClairDeLune\obj\Debug\net6.0\Program.cs-Lab2JasmineCarrascoClairDeLune.csproj.AssemblyReference.cache
+C:\Users\jasmine.carrasco\source\repos\Lab2JasmineCarrascoClairDeLune\obj\Debug\net6.0\Program.cs-Lab2JasmineCarrascoClairDeLune.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasmine.carrasco\source\repos\Lab2JasmineCarrascoClairDeLune\obj\Debug\net6.0\Program.cs-Lab2JasmineCarrascoClairDeLune.AssemblyInfoInputs.cache
+C:\Users\jasmine.carrasco\source\repos\Lab2JasmineCarrascoClairDeLune\obj\Debug\net6.0\Program.cs-Lab2JasmineCarrascoClairDeLune.AssemblyInfo.cs
+C:\Users\jasmine.carrasco\source\repos\Lab2JasmineCarrascoClairDeLune\obj\Debug\net6.0\Program.cs-Lab2JasmineCarrascoClairDeLune.csproj.CoreCompileInputs.cache
+C:\Users\jasmine.carrasco\source\repos\Lab2JasmineCarrascoClairDeLune\obj\Debug\net6.0\Program.cs-Lab2JasmineCarrascoClairDeLune.dll
+C:\Users\jasmine.carrasco\source\repos\Lab2JasmineCarrascoClairDeLune\obj\Debug\net6.0\refint\Program.cs-Lab2JasmineCarrascoClairDeLune.dll
+C:\Users\jasmine.carrasco\source\repos\Lab2JasmineCarrascoClairDeLune\obj\Debug\net6.0\Program.cs-Lab2JasmineCarrascoClairDeLune.pdb
+C:\Users\jasmine.carrasco\source\repos\Lab2JasmineCarrascoClairDeLune\obj\Debug\net6.0\Program.cs-Lab2JasmineCarrascoClairDeLune.genruntimeconfig.cache
+C:\Users\jasmine.carrasco\source\repos\Lab2JasmineCarrascoClairDeLune\obj\Debug\net6.0\ref\Program.cs-Lab2JasmineCarrascoClairDeLune.dll
